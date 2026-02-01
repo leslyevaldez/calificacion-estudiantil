@@ -23,6 +23,5 @@ Este proyecto consiste en una aplicación de escritorio que permite ingresar cua
 - Año Escolar: 2025–2026
 
 ## Autor
-Leslye Valdez
 Leslye Avril Valdez De La Cruz
 
