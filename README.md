@@ -25,3 +25,9 @@ Este proyecto consiste en una aplicación de escritorio que permite ingresar cua
 ## Autor
 Leslye Avril Valdez De La Cruz
 
+## Imágenes de la ejecución del proyecto
+
+<img width="766" height="520" alt="formulario" src="https://github.com/user-attachments/assets/ad38d891-53b3-4c95-8ba5-ed44b474dc8a" />
+<img width="768" height="553" alt="promedio" src="https://github.com/user-attachments/assets/3de49641-cde2-486f-be60-44c82a343e0b" />
+<img width="1113" height="597" alt="resultado" src="https://github.com/user-attachments/assets/ad941811-ff2e-4c40-845e-0f83dd512732" />
+
